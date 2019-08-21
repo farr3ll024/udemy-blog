@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="321b6843-8f3c-47cb-8cbb-3f179e37c495" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/apis/jsonPlaceholder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/postsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/blaise.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/usersReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apis/jsonPlaceholder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/apis/jsonPlaceholder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/postsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/postsReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +35,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -63,7 +69,10 @@
       <option name="presentableId" value="Default" />
       <updated>1565733693732</updated>
       <workItem from="1565733694996" duration="126000" />
-      <workItem from="1565749326432" duration="9875000" />
+      <workItem from="1565749326432" duration="10171000" />
+      <workItem from="1566312557692" duration="13054000" />
+      <workItem from="1566353777912" duration="809000" />
+      <workItem from="1566356775350" duration="4044000" />
     </task>
     <servers />
   </component>
